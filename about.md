@@ -12,5 +12,7 @@ These are perfect ambiance videos for nearly any situation, injecting a bit of i
 
 ### Contact me
 
+If you have any suggestions, or especially if you have any videos that would fit the site, please send me an email. I'm trying to focus on higher quality videos that are at least an hour long. 
+
 Christopher Acree
 [acreechristopher@gmail.com](mailto:acreechristopher@gmail.com)
