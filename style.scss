@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
@@ -242,16 +242,21 @@ nav {
 //
 
 .video-wrapper { 
-  margin: 15px; 
-  max-width: 350px;
-  font: Helvetica,arial,sans-serif;
+  padding:10px; 
+  display:inline-block;
+  width:24px;
+  margin-bottom: 30px;
+  max-width: 300px;
+  font-family:"Times New Roman",arial,sans-serif;
   img{
-    max-width: 340px;
-    max-height: 255px; 
+    width: 100%;
     margin: 4px; 
   }
   a:link, a:visited{
   	color:#737373;
+  }
+  a:hover, a:focus{
+  	color:blue;
   }
 }
 
