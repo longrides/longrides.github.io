@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### LONG RIDES
 
-### More Information
+Long rides is a site for exploration and appreciation of natural beauty. We collect the best videos of long trips from around the web for you to enjoy. We're also currently running a [Kickstarter](https://www.kickstarter.com/projects/267162915/long-video-of-the-trans-siberian-railway) to document the Trans-Mongolian line of the Trans-Siberian Railway. 
 
-A place to include any other types of information that you'd like to include about yourself.
+These are perfect ambiance videos for nearly any situation, injecting a bit of inspiration, wonder, and wanderlust into the atmosphere. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Christopher Acree
+[acreechristopher@gmail.com](mailto:acreechristopher@gmail.com)
