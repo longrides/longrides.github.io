@@ -241,6 +241,20 @@ nav {
 // .main
 //
 
+.video-wrapper { 
+  margin: 15px; 
+  max-width: 350px;
+  font: Helvetica,arial,sans-serif;
+  img{
+    max-width: 340px;
+    max-height: 255px; 
+    margin: 4px; 
+  }
+  a:link, a:visited{
+  	color:#737373;
+  }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
